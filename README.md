@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓮𝓵𝓵𝓸, 𝓘`𝓶 𝓓𝓪𝓻𝔂𝓪<a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8%2C+%F0%9D%93%98%60%F0%9D%93%B6+%F0%9D%93%93%F0%9D%93%AA%F0%9D%93%BB%F0%9D%94%82%F0%9D%93%AA" alt="Typing SVG" /></a><a href="https://daniilshat.ru/" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> 𝓒++ 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓡𝓾𝓼𝓼𝓲𝓪 🇷🇺</h3>
 
