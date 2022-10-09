@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I`m Darya <a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸, 𝓘`𝓶 𝓓𝓪𝓻𝔂𝓪<a href="https://daniilshat.ru/" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> C++ developer from Russia 🇷🇺</h3>
+<h3 align="center"> 𝓒++ 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓡𝓾𝓼𝓼𝓲𝓪 🇷🇺</h3>
 
 <!--
 **DaryMingazova/DaryMingazova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
