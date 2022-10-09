@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Times+Roman&size=16&pause=1000&color=110B5D&width=435&lines=Hello%2C+I%60m+Darya%2C+C%2B%2B+developer+from+Russia" alt="Typing SVG" /></a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
