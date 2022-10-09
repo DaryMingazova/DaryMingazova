@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/Darya_Mingazova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:DaryaMingazova21@yandex.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg" alt="" height="30" width="40" /></a> 
 </p>
 
 <!--
